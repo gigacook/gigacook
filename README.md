@@ -17,6 +17,7 @@
 |---|---|
 | 🖥 **[dex](https://github.com/gigacook/dex)**<br>Keeps your Mac awake with the lid closed. For overnight renders and people who refuse to buy a dock. | 👁 **[zeroCortisol](https://github.com/gigacook/zeroCortisol)**<br>Eleven dead philosophers live in your menu bar. They argue so you don't have to. |
 | 💦 **[goonyjump](https://github.com/gigacook/goonyjump)**<br>Co-op Icy Tower on questionable fuel. Friends join from their phones. [Play it in your browser →](https://gigacook.github.io/play/) | 🩺 **[kirurgi.xyz](https://github.com/gigacook/kirurgi.xyz)**<br>2,000+ Swedish surgery exam questions. Cheaper than failing, less messy than practising on patients. |
+| 🏀 **[SUPER RUNNER](https://gigacook.github.io/runner/)**<br>NES desert race on a train track. Two players, one keyboard, zero respawns. | 🍆 **[GOON BRAWL](https://gigacook.github.io/brawl/)**<br>8-bit fighter. A wheelchair, an aubergine, a CPU that taunts back. Type 420. |
 | 🐘 **[memcheck](https://github.com/gigacook/memcheck-ram-cli)**<br>Finds the process that ate your RAM, then asks politely if it should die. | 🎧 **[mp3](https://github.com/gigacook/mp3-url-cli)**<br>Paste a link, get an mp3. Zero fake DOWNLOAD buttons. |
 
 ## 👁 Truth of the Day
