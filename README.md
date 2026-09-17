@@ -23,9 +23,9 @@
 ## 👁 Truth of the Day
 
 <!-- TRUTH:START -->
-> *"As for what concerns me in particular I have only in my life carried to an extreme what you have not dared to carry halfway, and what’s more, you have taken your cowardice for good sense, and have found comfort in deceiving yourselves."*
+> *"To learn TO LOOK AWAY FROM oneself, is necessary in order to see MANY THINGS:—this hardiness is needed by every mountain-climber. He, however, who is obtrusive with his eyes as a discerner, how can he ever see more of anything than its foreground!"*
 >
-> — **Fyodor Dostoevsky**, *Notes from Underground*
+> — **Friedrich Nietzsche**, *Thus Spake Zarathustra*
 
 <sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-17.</sub>
 <!-- TRUTH:END -->
