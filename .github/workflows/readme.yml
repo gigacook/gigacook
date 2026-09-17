@@ -1,0 +1,26 @@
+name: Refresh README
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # every morning, before anyone's awake
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pick today's truth and rank the gooners
+        env:
+          GOONER_URL: ${{ vars.GOONER_URL }}  # optional: live goonyjump server
+        run: python3 scripts/update_readme.py
+      - name: Commit if anything changed
+        run: |
+          git diff --quiet && { echo "nothing new under the sun (Ecclesiastes 1:9)"; exit 0; }
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "👁 Truth of the Day"
+          git push
