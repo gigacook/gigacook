@@ -9,6 +9,7 @@ Stdlib only. Run: python3 scripts/update_readme.py
 """
 import datetime
 import json
+import math
 import os
 import re
 import urllib.request
@@ -34,9 +35,15 @@ def md_safe(text, limit=40):
 
 def truth_of_the_day(today):
     quotes = get_json(QUOTES_URL)
-    # Must match pickTruth() in gigacook.github.io: day number × 97, mod corpus size.
+    # Same pick as the zeroCortisol app (TruthOfDay.index) and gigacook.github.io/truth.
     day = (today - datetime.date(1970, 1, 1)).days
-    q = quotes[(day * 97) % len(quotes)]
+    n = len(quotes)
+    stride = 1
+    if n > 2:
+        stride = max(1, int(n * 0.618))
+        while math.gcd(stride, n) != 1:
+            stride += 1
+    q = quotes[((day % n) * stride + 17) % n]
     return (
         f"> *\"{q['quote']}\"*\n>\n"
         f"> — **{q['author']}**, *{q['work']}*\n\n"
