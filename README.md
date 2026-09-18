@@ -23,11 +23,11 @@
 ## 👁 Truth of the Day
 
 <!-- TRUTH:START -->
-> *"To learn TO LOOK AWAY FROM oneself, is necessary in order to see MANY THINGS:—this hardiness is needed by every mountain-climber. He, however, who is obtrusive with his eyes as a discerner, how can he ever see more of anything than its foreground!"*
+> *"Avoid fear, too, though fear is only the consequence of every sort of falsehood. Never be frightened at your own faint-heartedness in attaining love. Don’t be frightened overmuch even at your evil actions."*
 >
-> — **Friedrich Nietzsche**, *Thus Spake Zarathustra*
+> — **Fyodor Dostoevsky**, *The Brothers Karamazov*
 
-<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-17.</sub>
+<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-18.</sub>
 <!-- TRUTH:END -->
 
 ## 🏆 Hall of Goon
