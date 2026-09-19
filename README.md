@@ -23,11 +23,11 @@
 ## 👁 Truth of the Day
 
 <!-- TRUTH:START -->
-> *"Avoid fear, too, though fear is only the consequence of every sort of falsehood. Never be frightened at your own faint-heartedness in attaining love. Don’t be frightened overmuch even at your evil actions."*
+> *"When I see a man anxious, I say, What does this man want? If he did not want something which is not in his power, how could he be anxious?"*
 >
-> — **Fyodor Dostoevsky**, *The Brothers Karamazov*
+> — **Epictetus**, *Discourses*
 
-<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-18.</sub>
+<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-19.</sub>
 <!-- TRUTH:END -->
 
 ## 🏆 Hall of Goon
