@@ -23,11 +23,11 @@
 ## 👁 Truth of the Day
 
 <!-- TRUTH:START -->
-> *"When I see a man anxious, I say, What does this man want? If he did not want something which is not in his power, how could he be anxious?"*
+> *"The first few times he tried to climb up on the smooth chest of drawers he just slid down again, but he finally gave himself one last swing and stood there upright; the lower part of his body was in serious pain but he no longer gave any attention to it."*
 >
-> — **Epictetus**, *Discourses*
+> — **Franz Kafka**, *The Metamorphosis*
 
-<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-19.</sub>
+<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-20.</sub>
 <!-- TRUTH:END -->
 
 ## 🏆 Hall of Goon
