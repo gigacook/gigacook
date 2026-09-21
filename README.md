@@ -23,11 +23,11 @@
 ## 👁 Truth of the Day
 
 <!-- TRUTH:START -->
-> *"The first few times he tried to climb up on the smooth chest of drawers he just slid down again, but he finally gave himself one last swing and stood there upright; the lower part of his body was in serious pain but he no longer gave any attention to it."*
+> *"For if I tell you that to do as you say would be a disobedience to the God, and therefore that I cannot hold my tongue, you will not believe that I am serious; and if I say again that daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living, you are still less likely to believe me."*
 >
-> — **Franz Kafka**, *The Metamorphosis*
+> — **Socrates**, *Apology*
 
-<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-20.</sub>
+<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-21.</sub>
 <!-- TRUTH:END -->
 
 ## 🏆 Hall of Goon
