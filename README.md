@@ -23,11 +23,11 @@
 ## 👁 Truth of the Day
 
 <!-- TRUTH:START -->
-> *"For if I tell you that to do as you say would be a disobedience to the God, and therefore that I cannot hold my tongue, you will not believe that I am serious; and if I say again that daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living, you are still less likely to believe me."*
+> *"Ail sufferers have an awful resourcefulness and ingenuity in finding excuses for painful emotions; they even enjoy their jealousy, their broodings over base actions and apparent injuries, they burrow through the intestines of their past and present in their search for obscure mysteries, wherein they will be at liberty to wallow in a torturing suspicion and get drunk on the venom of their own malice--they tear open the oldest wounds, they make themselves bleed from the scars which have long been healed, they make evil-doers out of friends, wife, child, and everything which is nearest to them."*
 >
-> — **Socrates**, *Apology*
+> — **Friedrich Nietzsche**, *The Genealogy of Morals*
 
-<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-21.</sub>
+<sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-22.</sub>
 <!-- TRUTH:END -->
 
 ## 🏆 Hall of Goon
