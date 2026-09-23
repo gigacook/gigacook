@@ -30,17 +30,6 @@
 <sub>One of 407 verbatim passages from [zeroCortisol](https://github.com/gigacook/zeroCortisol). New one every morning. Updated 2026-09-22.</sub>
 <!-- TRUTH:END -->
 
-## 🏆 Hall of Goon
-
-<!-- HALL:START -->
-| | Gooner | Level | Body | Hat |
-|---|---|---|---|---|
-| 🥇 | **MUSSOLINI** | LV 1337 | sock | aubergine |
-| 🥈 | **Ronaldo** | LV 780 | goober | aubergine |
-
-<sub>Hall of Goon (Season 1, archived). Think you can do better? [Play in your browser](https://gigacook.github.io/play/).</sub>
-<!-- HALL:END -->
-
 ## 🐍 A snake is eating my commits
 
 <picture>
