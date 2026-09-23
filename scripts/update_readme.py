@@ -53,26 +53,6 @@ def truth_of_the_day(today):
     )
 
 
-def hall_of_goon():
-    live_url = os.environ.get("GOONER_URL", "").rstrip("/")
-    players, label = None, "Season 1, archived"
-    if live_url:
-        try:
-            players = get_json(f"{live_url}/info").get("seen") or None
-            label = "live from the tower"
-        except Exception:
-            players = None
-    if players is None:
-        players = list(get_json(HALL_URL).values())
-    players = sorted(players, key=lambda p: -int(p.get("lvl", 1)))[:5]
-    rows = ["| | Gooner | Level | Body | Hat |", "|---|---|---|---|---|"]
-    for medal, p in zip(MEDALS, players):
-        rows.append(f"| {medal} | **{md_safe(p.get('name'))}** | LV {int(p.get('lvl', 1))} "
-                    f"| {md_safe(p.get('char', 'goober'), 12)} | {md_safe(p.get('hat', 'cap'), 12)} |")
-    return "\n".join(rows) + f"\n\n<sub>Hall of Goon ({label}). Think you can do better? "\
-        "[Play in your browser](https://gigacook.github.io/play/).</sub>"
-
-
 def replace_block(text, name, body):
     pattern = re.compile(rf"(<!-- {name}:START -->\n).*?(<!-- {name}:END -->)", re.S)
     if not pattern.search(text):
